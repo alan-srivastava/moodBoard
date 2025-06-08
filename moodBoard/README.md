@@ -68,6 +68,8 @@ No External State: Pure React hooks
 
 📂 Repository Structure (These files form the core foundation of your Vite+React project structure.)
 
+Open 📂.. (In this folder, you will get all the files that i have mentioned below)
+
 moodboard/
 
 ├── src/
