@@ -1,4 +1,4 @@
-MoodBoard - Daily Mood Tracker 🌐 Live Demo[https://alan-srivastava.github.io/moodboard-frontend/]
+MoodBoard - Daily Mood Tracker 🌐 Live Demo[https://alan-srivastava.github.io/moodBoard/]
 
 A dynamic mood tracking app built with React (Vite) + Material UI.
 
