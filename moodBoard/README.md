@@ -1,4 +1,4 @@
-MoodBoard - Daily Mood Tracker 🌐 Live Demo[https://alan-srivastava.github.io/moodboard-frontend/]
+MoodBoard - Daily Mood Tracker 🌐 Live Demo[https://alan-srivastava.github.io/moodBoard/]
 
 A dynamic mood tracking app built with React (Vite) + Material UI.
 
@@ -17,9 +17,9 @@ UI Screenshot ![image](https://github.com/user-attachments/assets/354db2ba-0f88-
 
 🚀 Setup Instructions
 1. Run Locally
-git clone https://github.com/your-username/moodboard-frontend.git # ADD your username in this link if you want to clone it on your device.
+git clone https://github.com/your-username/moodaBoard.git # ADD your username in this link if you want to clone it on your device.
 
-cd moodboard   # Folder Name
+cd moodBoard   # Folder Name
 
 npm install  # Installs Vite + React + Material UI
 
